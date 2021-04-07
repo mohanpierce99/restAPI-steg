@@ -9,14 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@randy.tarampi/lwip": "^3.0.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "jimp": "^0.16.1",
     "multer": "^1.4.2",
+    "q": "^1.4.1",
     "rimraf": "^3.0.2",
     "steganography": "^0.2.0",
-    "stegcloak": "^1.1.1",
-    "@randy.tarampi/lwip": "^3.0.0",
-    "q": "^1.4.1"
+    "stegcloak": "^1.1.1"
   }
 }
